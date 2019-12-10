@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1575990037289' stop='1575990037363'>
+    <name>GET /characters</name>
+    <title>GET /characters</title>
+    <test-cases>
+        <test-case start='1575990037289' status='passed' stop='1575990037323'>
+            <name>API returns status code 200</name>
+            <title>API returns status code 200</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1575990037323' status='passed' stop='1575990037336'>
+            <name>API Response should be valid json</name>
+            <title>API Response should be valid json</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1575990037336' status='passed' stop='1575990037343'>
+            <name>Sansa has ID 300 and belongs to Stark house</name>
+            <title>Sansa has ID 300 and belongs to Stark house</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1575990037343' status='passed' stop='1575990037350'>
+            <name>Jon Snow belongs to two houses (Stark and Targaryen) and does not have nickname</name>
+            <title>Jon Snow belongs to two houses (Stark and Targaryen) and does not have nickname</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1575990037350' status='passed' stop='1575990037357'>
+            <name>Filter by house name ( ?house=Stark ) works, there are 20 Starks</name>
+            <title>Filter by house name ( ?house=Stark ) works, there are 20 Starks</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

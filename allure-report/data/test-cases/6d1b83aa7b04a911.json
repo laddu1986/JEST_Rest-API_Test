@@ -1,0 +1,44 @@
+{
+  "uid" : "6d1b83aa7b04a911",
+  "name" : "Filter by house name ( ?house=Stark ) works, there are 20 Starks",
+  "fullName" : "GET /characters.Filter by house name ( ?house=Stark ) works, there are 20 Starks",
+  "historyId" : "8cc069d3a2ba2092460b246e48ff8797",
+  "time" : {
+    "start" : 1575990037350,
+    "stop" : 1575990037357,
+    "duration" : 7
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "GET /characters"
+  }, {
+    "name" : "testClass",
+    "value" : "GET /characters"
+  }, {
+    "name" : "testMethod",
+    "value" : "Filter by house name ( ?house=Stark ) works, there are 20 Starks"
+  }, {
+    "name" : "package",
+    "value" : "GET /characters"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6d1b83aa7b04a911.json",
+  "parameterValues" : [ ]
+}

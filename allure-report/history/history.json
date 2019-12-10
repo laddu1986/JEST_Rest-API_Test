@@ -1,0 +1,97 @@
+{
+  "5ddf71c95410066915955142aca8be3a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "80c9e9b4b52fd7d7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1575990037323,
+        "stop" : 1575990037336,
+        "duration" : 13
+      }
+    } ]
+  },
+  "f1efa09212df626c78e15c5a39412a5a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fe0cae0c50a395d9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1575990037289,
+        "stop" : 1575990037323,
+        "duration" : 34
+      }
+    } ]
+  },
+  "3fbfd4b3dfb4add121a9e6d534e1a07d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "88a79be70e3d0c8c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1575990037343,
+        "stop" : 1575990037350,
+        "duration" : 7
+      }
+    } ]
+  },
+  "77a0dabf6d69d6f56a9aaa5f62249296" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "83379767e9c4b9b2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1575990037336,
+        "stop" : 1575990037343,
+        "duration" : 7
+      }
+    } ]
+  },
+  "8cc069d3a2ba2092460b246e48ff8797" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c5cba3b2cffdae20",
+      "status" : "passed",
+      "time" : {
+        "start" : 1575990037350,
+        "stop" : 1575990037357,
+        "duration" : 7
+      }
+    } ]
+  }
+}

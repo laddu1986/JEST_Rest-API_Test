@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="API Tests" tests="5" failures="0" time="0.832">
+  <testsuite name="GET /characters" errors="0" failures="0" skipped="0" timestamp="2019-12-10T15:00:36" time="0.793" tests="5">
+    <testcase classname="GET /characters API returns status code 200" name="GET /characters API returns status code 200" time="0.034">
+    </testcase>
+    <testcase classname="GET /characters API Response should be valid json" name="GET /characters API Response should be valid json" time="0.013">
+    </testcase>
+    <testcase classname="GET /characters Sansa has ID 300 and belongs to Stark house" name="GET /characters Sansa has ID 300 and belongs to Stark house" time="0.007">
+    </testcase>
+    <testcase classname="GET /characters Jon Snow belongs to two houses (Stark and Targaryen) and does not have nickname" name="GET /characters Jon Snow belongs to two houses (Stark and Targaryen) and does not have nickname" time="0.007">
+    </testcase>
+    <testcase classname="GET /characters Filter by house name ( ?house=Stark ) works, there are 20 Starks" name="GET /characters Filter by house name ( ?house=Stark ) works, there are 20 Starks" time="0.007">
+    </testcase>
+  </testsuite>
+</testsuites>

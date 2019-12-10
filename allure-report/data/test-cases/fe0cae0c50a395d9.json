@@ -1,0 +1,54 @@
+{
+  "uid" : "fe0cae0c50a395d9",
+  "name" : "API returns status code 200",
+  "fullName" : "GET /characters.API returns status code 200",
+  "historyId" : "f1efa09212df626c78e15c5a39412a5a",
+  "time" : {
+    "start" : 1575990037289,
+    "stop" : 1575990037323,
+    "duration" : 34
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "GET /characters"
+  }, {
+    "name" : "testClass",
+    "value" : "GET /characters"
+  }, {
+    "name" : "testMethod",
+    "value" : "API returns status code 200"
+  }, {
+    "name" : "package",
+    "value" : "GET /characters"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c6ea32e3770aa542",
+      "status" : "passed",
+      "time" : {
+        "start" : 1575990037289,
+        "stop" : 1575990037323,
+        "duration" : 34
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fe0cae0c50a395d9.json",
+  "parameterValues" : [ ]
+}

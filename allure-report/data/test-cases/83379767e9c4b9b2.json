@@ -1,0 +1,54 @@
+{
+  "uid" : "83379767e9c4b9b2",
+  "name" : "Sansa has ID 300 and belongs to Stark house",
+  "fullName" : "GET /characters.Sansa has ID 300 and belongs to Stark house",
+  "historyId" : "77a0dabf6d69d6f56a9aaa5f62249296",
+  "time" : {
+    "start" : 1575990037336,
+    "stop" : 1575990037343,
+    "duration" : 7
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "GET /characters"
+  }, {
+    "name" : "testClass",
+    "value" : "GET /characters"
+  }, {
+    "name" : "testMethod",
+    "value" : "Sansa has ID 300 and belongs to Stark house"
+  }, {
+    "name" : "package",
+    "value" : "GET /characters"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "cce1044e9e587b88",
+      "status" : "passed",
+      "time" : {
+        "start" : 1575990037336,
+        "stop" : 1575990037343,
+        "duration" : 7
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "83379767e9c4b9b2.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,44 @@
+{
+  "uid" : "3df84dbc375dac4d",
+  "name" : "Jon Snow belongs to two houses (Stark and Targaryen) and does not have nickname",
+  "fullName" : "GET /characters.Jon Snow belongs to two houses (Stark and Targaryen) and does not have nickname",
+  "historyId" : "3fbfd4b3dfb4add121a9e6d534e1a07d",
+  "time" : {
+    "start" : 1575990037343,
+    "stop" : 1575990037350,
+    "duration" : 7
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "GET /characters"
+  }, {
+    "name" : "testClass",
+    "value" : "GET /characters"
+  }, {
+    "name" : "testMethod",
+    "value" : "Jon Snow belongs to two houses (Stark and Targaryen) and does not have nickname"
+  }, {
+    "name" : "package",
+    "value" : "GET /characters"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3df84dbc375dac4d.json",
+  "parameterValues" : [ ]
+}

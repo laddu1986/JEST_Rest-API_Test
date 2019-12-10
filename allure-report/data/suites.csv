@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Dec 10 16:00:37 CET 2019","Tue Dec 10 16:00:37 CET 2019","7","","GET /characters","","GET /characters","Sansa has ID 300 and belongs to Stark house","Sansa has ID 300 and belongs to Stark house",""
+"passed","Tue Dec 10 16:00:37 CET 2019","Tue Dec 10 16:00:37 CET 2019","34","","GET /characters","","GET /characters","API returns status code 200","API returns status code 200",""
+"passed","Tue Dec 10 16:00:37 CET 2019","Tue Dec 10 16:00:37 CET 2019","7","","GET /characters","","GET /characters","Filter by house name ( ?house=Stark ) works, there are 20 Starks","Filter by house name ( ?house=Stark ) works, there are 20 Starks",""
+"passed","Tue Dec 10 16:00:37 CET 2019","Tue Dec 10 16:00:37 CET 2019","13","","GET /characters","","GET /characters","API Response should be valid json","API Response should be valid json",""
+"passed","Tue Dec 10 16:00:37 CET 2019","Tue Dec 10 16:00:37 CET 2019","7","","GET /characters","","GET /characters","Jon Snow belongs to two houses (Stark and Targaryen) and does not have nickname","Jon Snow belongs to two houses (Stark and Targaryen) and does not have nickname",""
