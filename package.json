@@ -58,7 +58,7 @@
     "jest-retry": "^1.0.8",
     "lodash": "^4.17.14",
     "node-fetch": "^2.6.0",
-    "npm": "^6.13.3",
+    "npm": "^6.14.6",
     "puppeteer": "^1.19.0",
     "request": "^2.88.0",
     "strip-ansi": "^4.0.0"
